@@ -46,3 +46,6 @@
 | ¥100      | ![img](photo/clip_cell_image11.png) | 借款   |               |
 |           |                                                              |        |               |
 | (¥200)    | 定期还款                                                     | 还款   | 现金还款      |
+
+## 萌图哎😘
+![萌图哎😘](https://t.mwm.moe/moe/)

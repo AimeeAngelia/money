@@ -27,22 +27,22 @@
 
 | 金额(CNY) | 详情                                                         | 类型   | 备注          |
 | --------- | ------------------------------------------------------------ | ------ | ------------- |
-| ¥2,300    | ![img](\photo\clip_cell_image2.png) | 借款   | 商讨利息100元 |
-|           | ![img](\photo\clip_cell_image8.png) |        |               |
-|           | ![img](\photo\clip_cell_image7.png) |        |               |
+| ¥2,300    | ![img](photo/clip_cell_image2.png) | 借款   | 商讨利息100元 |
+|           | ![img](photo/clip_cell_image8.png) |        |               |
+|           | ![img](photo/clip_cell_image7.png) |        |               |
 |           |                                                              |        |               |
-| ¥500      | ![img](\photo\clip_cell_image9.png) | 借款   |               |
+| ¥500      | ![img](photo/clip_cell_image9.png) | 借款   |               |
 |           |                                                              |        |               |
-| ¥1,500    | ![img](\photo\clip_cell_image4.png) | 借款   |               |
+| ¥1,500    | ![img](photo/clip_cell_image4.png) | 借款   |               |
 |           |                                                              |        |               |
-| ¥10       | ![img](\photo\clip_cell_image3.png) | 借款   |               |
+| ¥10       | ![img](photo/clip_cell_image3.png) | 借款   |               |
 |           |                                                              |        |               |
-| (¥296)    | ![img](\photo\clip_cell_image6.png) | 还款   |               |
+| (¥296)    | ![img](photo/clip_cell_image6.png) | 还款   |               |
 |           |                                                              |        |               |
-| ¥0.85     | ![img](\photo\clip_cell_image5.png) | 已退回 |               |
+| ¥0.85     | ![img](photo/clip_cell_image5.png) | 已退回 |               |
 |           |                                                              |        |               |
 | (¥100)    | 定期还款                                                     | 还款   | 现金还款      |
 |           |                                                              |        |               |
-| ¥100      | ![img](\photo\clip_cell_image11.png) | 借款   |               |
+| ¥100      | ![img](photo/clip_cell_image11.png) | 借款   |               |
 |           |                                                              |        |               |
 | (¥200)    | 定期还款                                                     | 还款   | 现金还款      |
